@@ -1,0 +1,8 @@
+{
+"status":"ok",
+"max_flow_per_min":100,
+"flows": [
+    {"from": "s1", "to": "a", "flow": 100},
+    {"from": "a", "to": "t1", "flow": 100}
+]
+}

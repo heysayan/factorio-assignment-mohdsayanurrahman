@@ -1,0 +1,7 @@
+{"sources": {"s1": 100},
+"sink": "t1",
+"edges": [
+    {"from": "s1", "to": "a", "upper_bound": 100},
+    {"from": "a", "to": "t1", "upper_bound": 100}
+]
+}
